@@ -3,6 +3,8 @@
 
 ## Installation
 
+Please use expo SDK for project execution and development. `https://expo.io/`.
+
 All required packages are marked in "package.json" file.
 
 Use below command to install all dependency packages.
