@@ -10,6 +10,18 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/assets/images/pregnancy.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/assets/images/rain-cloud.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/assets/images/saturn-planet-symbol-variant.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/icons/app-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/icons/loading-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.babelrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/swapi_integration.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.watchmanconfig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app.json" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/App.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/actions/index.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/actions/search.js" />
@@ -29,6 +41,7 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/router/Router.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/services/Services.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/types/types.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package.json" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -279,12 +292,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1506078681803</updated>
-      <workItem from="1506078683139" duration="1709000" />
+      <workItem from="1506078683139" duration="1802000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1709000" />
+    <option name="totallyTimeSpent" value="1802000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
