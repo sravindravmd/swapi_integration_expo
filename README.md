@@ -3,15 +3,12 @@
 
 ## Installation
 
-All required packages are marked in "package.json" file
-and same locked with yarn.lock file.
+All required packages are marked in "package.json" file.
 
 Use below command to install all dependency packages.
 
 ```bash
-npm install
-or
-yarn 
+npm install 
 ```
 ##Features.
 
